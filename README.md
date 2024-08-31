@@ -10,14 +10,14 @@ Redeeming of tokens: Players should be able to redeem their tokens for items in 
 Checking of token balance: Players should be able to check their token balance at any time.
 Burning of tokens: Anyone should be able to burn tokens, that they own, that are no longer needed.
 
-Tools Used
+## Tools Used
 Computer
 NodeJS
 Hardhat
 Solidity
 
 
-Step by Step
+## Step by Step
 Fork the starter template project
 Create the ERC-20 token
 Set the name to “Degen”
@@ -26,3 +26,5 @@ Test the smart-contract
 Deployed the contract to Avalanche Fuji Testnet
 Test on testnet (All tests should pass)
 Verify the smart-contract on Snowtrace
+
+
